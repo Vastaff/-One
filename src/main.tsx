@@ -4,7 +4,7 @@ import App from './App.tsx'
 import './index.css'
 import { TonConnectUIProvider } from '@tonconnect/ui-react';
 
-const manifestUrl = 'https://github.com/Vastaff/-One/tree/main/public/tonconnect-manifest.json';
+const manifestUrl = 'https://vastaff.github.io/-One/tonconnect-manifest.json';
 
 ReactDOM.createRoot(document.getElementById('root')!).render(
   <TonConnectUIProvider manifestUrl={manifestUrl}>
