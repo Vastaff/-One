@@ -1,7 +1,5 @@
 { 
- "url": "<app-url>", // требуется
-  "name": "<app-name>", // требуется
-  "iconUrl": "<app-icon-url>", // требуется
-  "termsOfUseUrl": "<terms-of-use-url>", // необязательно 
-  "privacyPolicyUrl": "<url-адрес политики конфиденциальности>" // необязательно 
-}
+ "url": "https://vastaff.github.io/-One", // требуется
+  "name": "My_grom", // требуется
+  "iconUrl": "https://vastaff.github.io/-One/grom1.png", // требуется
+ }
